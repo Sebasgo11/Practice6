@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Practice6</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="publicidad">Publicidad</string>
+    <string name="caucasia">C A U C A S I A</string>
+    <string name="descau">Bajo Cauca Antioqueño, La Ruta Del Oro, El Ganado Y La Pesca</string>
+    <string name="visitanos">V i s i t a n o s ! </string>
+    <string name="title_activity_hoteles">Hoteles</string>
+    <string name="title_activity_bares">Bares</string>
+    <string name="title_activity_sitios__turisticos">Sitios_Turisticos</string>
+    <string name="title_activity_demografia">Demografía</string>
+    <string name="title_activity_acerca__de">Acerca_De</string>
+    <string name="bares">Bares</string>
+    <string name="disco">Bares Y Discotecas</string>
+    <string name="demografia">Demografía</string>
+    <string name="acerca">Acerca De</string>
+    <string name="sitios">Sitios Turisticos</string>
+    <string name="hoteles">Hoteles</string>
+    <string name="ubicacion">Ubicacion</string>
+
+    <string name="hotel1">Hotel Acapulco</string>
+    <string name="desh1">Horario de atención:24 horas
+                         Dirección:Calle 21 # 2-75
+                         Teléfono:839 53 35</string>
+
+    <string name="hotel2">Hotel Mesón Del Gitano</string>
+    <string name="desh2">Horario de atención:24 horas
+                         Dirección:Troncal Km 5 Vía a la Costa
+                         Teléfono:838 29 05</string>
+
+    <string name="hotel3">Hotel Frutas Del Lago</string>
+    <string name="desh3">Horario de atención:24 horas
+                         Dirección:Troncal Carrera 20
+                         Teléfono:839 30 32</string>
+
+    <string name="bar1">Discoteca Santa Mama</string>
+    <string name="desb1">Musica crossover hasta las 4 A.M y 2x1 en licores nacionales, Jueves no cover</string>
+    <string name="bar2">Discoteca Bora Bora</string>
+    <string name="desb2">Una propuesta de rumba que sabemos que te va gustar !! Horario 21:00-03:00 Reserva:discotecabobora@hotmail.com</string>
+    <string name="bar3">Fonda-Bar Ea Ve Maria Pues</string>
+    <string name="desb3">Encontraras los mejores exitos del momento, los clasicos rancheros y
+vallenatos que hacen de nuestra fonda uno de los lugares mas amenos del pajonal. </string>
+
+    <string name="sitio1">Jardin Hidrobotánico JIHC</string>
+    <string name="dess1">En cuestión de reservas naturales, es la más importante de Caucasia. Este jardín contribuye con la defensa y preservación de la flora de la subregión del Bajo Cauca, junto con la educación ambiental y cívica. </string>
+    <string name="sitio2">Parque De Las Ceibas</string>
+    <string name="dess2">El parque de las Ceibas actualmente cuenta con una infraestructura moderna que le permite a todos los visitantes encontrar nuevas opciones de ocio y entretenimiento.</string>
+    <string name="sitio3">Parque De Las Banderas</string>
+    <string name="dess3">El parque de las Banderas es un lugar que atrae tanto a niños, niñas, jóvenes y adultos, pues en él convergen muchas posibilidades de atracción y adoración, como la pista de patinaje y la iglesia La Sagrada Familia</string>
+
+    <string name="info1">Aplicacion desarrollada para promover el turismo en el departamento de Antioquia.
+                         El municipio de Caucasia fue desarrollado por:
+                         Sebastian Gomez Castaño
+                         Estudiante ingenieria electrónica Universidad De Antioquia
+                         Sebasgo11@hotmail.com</string>
+
+    <string name="demo1">Densidad población:</string>
+    <string name="demo11"> 96 hab por Km2</string>
+
+    <string name="demo2">Habitantes Cabecera:</string>
+    <string name="demo21"> 82481</string>
+
+    <string name="demo3">Habitantes Zona Rural:</string>
+    <string name="demo31"> 19307</string>
+
+    <string name="demo4">Total Habitantes:</string>
+    <string name="demo41"> 101788</string>
+
+    <string name="demo5">Hombres:</string>
+    <string name="demo51"> 49468</string>
+
+    <string name="demo6">Mujeres:</string>
+    <string name="demo61"> 52320</string>
+
+    <string name="demo7">Porcentaje Desempleo:</string>
+    <string name="demo71"> 20%</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_mapa">Mapa</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+</resources>

@@ -1,0 +1,97 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:scrollbars="vertical"
+    android:background="@color/black">
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        tools:context="com.sebastiangomez.practice6.Hoteles">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/hoteles"
+                android:textSize="40dp"
+                android:textColor="@color/red"
+                android:layout_gravity="center"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            style="@style/layout2">
+
+            <TextView
+                style="@style/textview2"
+                android:text="@string/hotel1"
+
+                />
+
+            <TextView
+                android:text="@string/desh1"
+                style="@style/textview"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            style="@style/layout"
+            android:background="@drawable/acapulco">
+        </LinearLayout>
+
+        <LinearLayout
+            style="@style/layout2">>
+
+            <TextView
+                style="@style/textview2"
+                android:text="@string/hotel2"
+                />
+
+            <TextView
+                android:text="@string/desh2"
+                style="@style/textview"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            style="@style/layout"
+            android:background="@drawable/gitano">
+        </LinearLayout>
+
+        <LinearLayout
+            style="@style/layout2">
+
+            <TextView
+                style="@style/textview2"
+                android:text="@string/hotel3"
+                />
+
+            <TextView
+                style="@style/textview"
+                android:text="@string/desh3"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            style="@style/layout"
+            android:background="@drawable/frutas">
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>

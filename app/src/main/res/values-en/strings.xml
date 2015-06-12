@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Practice6</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="publicidad">Publicity</string>
+    <string name="caucasia">C A U C A S I A</string>
+    <string name="visitanos">V i s i t  Us ! </string>
+    <string name="descau">Bajo Cauca Antioqueño,The Route Of The Gold,The Livestock And The Fisheries</string>
+    <string name="title_activity_hoteles">Hotels</string>
+    <string name="title_activity_bares">Bars</string>
+    <string name="title_activity_sitios__turisticos">Touristic Places</string>
+    <string name="title_activity_demografia">Demography</string>
+    <string name="title_activity_acerca__de">About_Of</string>
+    <string name="bares">Bars</string>
+    <string name="disco">Bars And Discos</string>
+    <string name="demografia">Demography</string>
+    <string name="acerca">About Of</string>
+    <string name="sitios">Touristic Places</string>
+    <string name="hoteles">Hotels</string>
+    <string name="ubicacion">Location</string>
+    <string name="title_activity_mapa">Mapa</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="hotel1">Acapulco Hotel </string>
+    <string name="desh1">Hours of operation:24 horas
+                         Address:Calle 21 # 2-75
+                         Phone:839 53 35</string>
+
+    <string name="hotel2">Mesón Del Gitano Hotel </string>
+    <string name="desh2">Hours of operation:24 horas
+                         Address:Troncal Km 5 Vía a la Costa
+                         Phone:838 29 05</string>
+
+    <string name="hotel3">Frutas Del Lago Hotel </string>
+    <string name="desh3">Hours of operation:24 horas
+                         Address:Troncal Carrera 20
+                         Phone:839 30 32</string>
+
+    <string name="bar1">Santa Mama Disco </string>
+    <string name="desb1">Crossover Music until 4 A.M and 2x1 in national liquors,Thursday no cover</string>
+    <string name="bar2">Bora Bora Disco</string>
+    <string name="desb2">A party proposed that we know will please you!! Service Hours 21:00-03:00 Reserve:discotecabobora@hotmail.com</string>
+    <string name="bar3">Fonda-Bar Ea Ve Maria Pues</string>
+    <string name="desb3">You will find the best hits, classics ranchers and
+vallenatos that make our inn one of the most enjoyable parts of the Pajonal . </string>
+
+    <string name="sitio1">Hydrobotanical Garden JIHC</string>
+    <string name="dess1">Within nature reserves , it is the most important of Caucasia . This garden contributes to the defense and preservation of the flora of the subregion of Bajo Cauca , along with environmental and civic education. </string>
+    <string name="sitio2">Ceibas Park</string>
+    <string name="dess2">Ceibas Park currently has a modern infrastructure that allows all visitors to find new leisure and entertainment options .</string>
+    <string name="sitio3">Flags Park</string>
+    <string name="dess3">Flags park is a place that appeals to children , youth and adults , because in it converge many possibilities of attraction and adoration, as the skating rink and the La Sagrada Familia church </string>
+
+    <string name="info1">Application developed to promote tourism in the department of Antioquia.
+                         The municipality of Caucasia was developed by:
+                         Sebastian Gomez Castaño
+                         Electronic engineering student University of Antioquia
+                         Sebasgo11@hotmail.com</string>
+
+    <string name="demo1">Population density:</string>
+    <string name="demo11"> 96 hab per Km2</string>
+
+    <string name="demo2">County seat people:</string>
+    <string name="demo21"> 82481</string>
+
+    <string name="demo3">Rural People:</string>
+    <string name="demo31"> 19307</string>
+
+    <string name="demo4">Total People:</string>
+    <string name="demo41"> 101788</string>
+
+    <string name="demo5">Men:</string>
+    <string name="demo51"> 49468</string>
+
+    <string name="demo6">Women:</string>
+    <string name="demo61"> 52320</string>
+
+    <string name="demo7">Unemployment rate:</string>
+    <string name="demo71"> 20%</string>
+    <string name="action_settings">Settings</string>
+
+
+</resources>

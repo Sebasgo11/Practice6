@@ -1,0 +1,36 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.sebastiangomez.practice6.Hoteles">
+
+    <item android:id="@+id/about"
+        android:title="@string/acerca"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/sitios"
+        android:title="@string/sitios"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/demografia"
+        android:title="@string/demografia"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/bares"
+        android:title="@string/bares"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/publicidad"
+        android:title="@string/publicidad"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/ubicacion"
+        android:title="@string/ubicacion"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+</menu>

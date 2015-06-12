@@ -1,0 +1,112 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:scrollbars="vertical"
+    android:background="@color/black">
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        tools:context="com.sebastiangomez.practice6.Bares">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/disco"
+                android:textSize="40sp"
+                android:textColor="@color/red"
+                android:layout_gravity="center"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_gravity="center"
+            android:layout_weight="1">
+
+            <TextView
+                style="@style/textview2"
+                android:text="@string/bar1"
+                />
+
+            <TextView
+                style="@style/textview"
+                android:text="@string/desb1"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            style="@style/layout"
+            android:background="@drawable/disco1">
+        </LinearLayout>
+
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_gravity="center"
+            android:layout_weight="1">
+
+            <TextView
+                style="@style/textview2"
+                android:text="@string/bar2"
+                />
+
+            <TextView
+                style="@style/textview"
+                android:text="@string/desb2"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            style="@style/layout"
+            android:background="@drawable/disco2">
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            >
+
+            <TextView
+                style="@style/textview2"
+                android:text="@string/bar3"
+                />
+
+            <TextView
+                style="@style/textview"
+                android:text="@string/desb3"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            style="@style/layout"
+            android:background="@drawable/disco3">
+        </LinearLayout>
+
+
+    </LinearLayout>
+</ScrollView>

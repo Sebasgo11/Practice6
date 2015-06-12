@@ -1,0 +1,101 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:scrollbars="vertical"
+    android:background="@color/black">
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        tools:context="com.sebastiangomez.practice6.Sitios_Turisticos">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/sitios"
+                android:textSize="40sp"
+                android:textColor="@color/red"
+                android:layout_gravity="center"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            style="@style/layout2">>
+
+            <TextView
+                style="@style/textview2"
+                android:text="@string/sitio1"
+                />
+
+            <TextView
+                style="@style/textview"
+                android:text="@string/dess1"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            style="@style/layout"
+            android:background="@drawable/jardin">
+        </LinearLayout>
+
+
+
+        <LinearLayout
+            style="@style/layout2">>
+
+            <TextView
+                style="@style/textview2"
+                android:text="@string/sitio3"
+                />
+
+            <TextView
+                style="@style/textview"
+                android:text="@string/dess3"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            style="@style/layout"
+            android:background="@drawable/banderas">
+        </LinearLayout>
+
+        <LinearLayout
+            style="@style/layout2">
+            >
+
+            <TextView
+                style="@style/textview2"
+                android:text="@string/sitio2"
+                />
+
+            <TextView
+                style="@style/textview"
+                android:text="@string/dess2"
+
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            style="@style/layout"
+            android:background="@drawable/ceibas">
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>
